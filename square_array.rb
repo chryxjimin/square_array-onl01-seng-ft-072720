@@ -3,3 +3,5 @@ def square_array(numbers)
   numbers.each do |nums|
     nums = numbers**2
 end
+
+p def square_array(numbers)

@@ -6,4 +6,4 @@ def square_array(numbers)
     nums = numbers**2
 end
 
-p def square_array
+#p def square_array

@@ -4,4 +4,4 @@ def square_array
     nums = numbers**2
 end
 
-p square_array(numbers)
+print square_array(numbers)

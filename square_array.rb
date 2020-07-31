@@ -3,6 +3,7 @@ def square_array(numbers)
   numbers.each do |nums|
   nums**2
   return square_array
+  end
 end
 
 #print square_array(numbers)
